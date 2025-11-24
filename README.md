@@ -1,29 +1,28 @@
-This project provides a simple and clean backend for a voting system.
-Users can create polls, add options, and submit votes.
-The API is designed using Express routes, controllers, and MongoDB models with proper validations.
+🗳️ Voting App Backend
+
+A simple and powerful backend-only Voting System built using Node.js, Express, and MongoDB.
+Create polls, add options, vote, and fetch real-time results — all via clean REST APIs.
 
 🚀 Features
 
- -> Create a new poll
+✨ Create Polls
 
- ->Add voting options
+✨ Add Options to Existing Polls
 
- ->Cast a vote
+✨ Cast Votes
 
- ->Fetch poll details
+✨ Fetch Poll by ID
 
- ->View vote counts
+✨ View Vote Counts
 
- ->Clean folder structure (routes, controllers, models)
-
- ->Error handling & validations
+✨ Proper Error Handling
 
 🛠️ Tech Stack
 
-->Node.js
+Node.js – Backend runtime
 
-->Express.js
+Express.js – API framework
 
-->MongoDB
+MongoDB – NoSQL database
 
-->Mongoose
+Mongoose – ODM for schema modeling
